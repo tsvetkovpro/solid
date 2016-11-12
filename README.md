@@ -11,4 +11,7 @@
 
 5. [Dependency inversion principle](./DIP/4/someservice.ts) - Принцип инверсии зависимости
 
+---
+
+#### [Перейти в начало](https://github.com/tsvetkovpro/sources)
 
